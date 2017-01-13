@@ -1,2 +1,2 @@
 # Projects
-My goal is to set up a Node JS Webserver with 4 Raspberry PIs in 11 days.
+Auf den drei Raspberry Pis läuft eine komplette Webaplikation mit einem Node.js Server, einem Apache und einem MySQL Server. 
